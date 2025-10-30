@@ -1,6 +1,6 @@
 # 빌드 결과물 무시
 /target/
-*.txt
+//*.txt
 
 # OS / IDE 관련 파일 무시
 .DS_Store
